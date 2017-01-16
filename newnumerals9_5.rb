@@ -3,7 +3,7 @@
 in the new system I placed before V or X indicates one less, so four is IV (one less than five) and nine is IX (one less than ten)
 X placed before L or C indicates ten less, so forty is XL (ten less than fifty) and ninety is XC (ten less than a hundred)
 C placed before D or M indicates a hundred less, so four hundred is CD (a hundred less than five hundred) and nine hundred is CM (a hundred less than a thousand)
- =end
+=end
 
 def new_numerals(num)
     thousands = num/1000
@@ -55,4 +55,4 @@ def new_numerals(num)
 
 end
 
-puts new_numerals(1985)
+puts new_numerals(9)
