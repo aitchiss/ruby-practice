@@ -1,2 +1,2 @@
 # ruby-practice
-pre-course activities
+Practice ruby exercises, mostly from Chris Pine's Learn to Program
